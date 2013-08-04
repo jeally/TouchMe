@@ -2,9 +2,9 @@
 <resources>
 
     <!-- Global -->
-    <string name="app_name">TurtlePlayer</string>
-    <string name="app_url">turtle-player.co.uk</string>
-    <string name="app_desc">Find out more about this open-source app at: turtle-player.co.uk</string>
+    <string name="app_name">TouchMe</string>
+    <string name="app_url">https://github.com/jeally/TouchMe</string>
+    <string name="app_desc">An awesome music player designed by Jeally.</string>
     
     <string name="zero">0</string>
     <string name="trackPostionSeparator"> / </string>
